@@ -1,4 +1,4 @@
-### 📫 Connect with Me
+### Connect with Me
   <p align="left">
     <a href="mailto:lffpz3331@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
@@ -13,7 +13,7 @@
 
 
 
-### 🔧 Technologies & Tools
+### Dev Skill
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,php,figma,vercel,vscode&theme=light" alt="Tech stack icons" />
