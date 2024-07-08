@@ -1,12 +1,12 @@
-## 🔧 Technologies & Tools
-<p align="center">
+### 🔧 Technologies & Tools
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,flutter,php,figma,vercel,vscode&theme=light" alt="Tech stack icons" />
   </a>
 </p>
 
-## 📫 Connect with Me
-  <p align="center">
+### 📫 Connect with Me
+  <p align="left">
     <a href="mailto:lffpz3331@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" />
     </a>
@@ -17,7 +17,6 @@
       <img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" />
     </a>
   </p>
-  
----
+
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=venderjin&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
